@@ -1,5 +1,11 @@
 Ananas X1
 Banana X8
 Cheese X3
+<<<<<<< HEAD
 Doritos X4
 Eggs X6
+=======
+Dates X4
+Eggs X5
+Fish
+>>>>>>> branch2
