@@ -1,5 +1,5 @@
-Ananas
-Banana
-Cheese
-Doritos
-Eggs
+Ananas X1
+Banana X2
+Cheese X3
+Doritos X4
+Eggs X5
