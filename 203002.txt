@@ -1,0 +1,229 @@
+4. git clone https://github.com/andonovikj/SI_2022_lab1_203002
+
+5. git add shopping_list.txt
+   git commit -m "Add 5 items to the shopping list"
+
+6. git add shopping_list.txt
+   git commit -m "Add quantities to the items"
+ 
+7. git branch branch1
+   git branch branch2
+
+8. 
+commit 9455c417786f6bf3ab37b4a6bb6a6bd15636d073 (HEAD -> master, branch2, branch1)
+Author: Mila <andonovikjmila@gmail.com>
+Date:   Fri Apr 8 23:33:13 2022 +0200
+
+    Add quantities to the items
+
+commit 2e9e7e6dfe0ca8dc105a983d7f2ee29c90e55b6b
+Author: Mila <andonovikjmila@gmail.com>
+Date:   Fri Apr 8 23:32:42 2022 +0200
+
+    Add 5 items to the shopping list
+
+commit c4f1e8045e6ab7d7f2dd3cd25f36d58d75023a5c (origin/master, origin/HEAD)
+Author: Mila Andonovikj <86725352+andonovikj@users.noreply.github.com>
+Date:   Fri Apr 8 23:30:54 2022 +0200
+
+    Update README.md
+
+commit 57adf4f44fcf29f07215d7cc6e984ffa1e0ded77
+Author: Mila Andonovikj <86725352+andonovikj@users.noreply.github.com>
+Date:   Fri Apr 8 23:30:18 2022 +0200
+
+    Initial commit
+
+9. git push origin master
+
+10. git checkout branch1
+
+11. git add shopping_list.txt
+git commit -m "Change quantity of item #5"
+
+12. git checkout master
+
+13. git add shopping_list.txt
+git commit -m "Change quantity of item #2"
+
+14. 
+git push origin branch1
+git push origin branch2
+git push origin master
+
+15.git checkout branch2
+
+16. git add shopping_list.txt
+git commit -m "Modify item#4"
+
+17. 
+
+commit c038ae59a57d171649d77cc2f1ef5f65979cb0a9 (HEAD -> branch2)
+Author: Mila <andonovikjmila@gmail.com>
+Date:   Fri Apr 8 23:39:13 2022 +0200
+
+    Modify item#4
+
+commit 9455c417786f6bf3ab37b4a6bb6a6bd15636d073 (origin/branch2)
+Author: Mila <andonovikjmila@gmail.com>
+Date:   Fri Apr 8 23:33:13 2022 +0200
+
+    Add quantities to the items
+
+commit 2e9e7e6dfe0ca8dc105a983d7f2ee29c90e55b6b
+Author: Mila <andonovikjmila@gmail.com>
+Date:   Fri Apr 8 23:32:42 2022 +0200
+
+    Add 5 items to the shopping list
+
+commit c4f1e8045e6ab7d7f2dd3cd25f36d58d75023a5c
+Author: Mila Andonovikj <86725352+andonovikj@users.noreply.github.com>
+Date:   Fri Apr 8 23:30:54 2022 +0200
+
+    Update README.md
+
+commit 57adf4f44fcf29f07215d7cc6e984ffa1e0ded77
+Author: Mila Andonovikj <86725352+andonovikj@users.noreply.github.com>
+...skipping...
+commit c038ae59a57d171649d77cc2f1ef5f65979cb0a9 (HEAD -> branch2)
+Author: Mila <andonovikjmila@gmail.com>
+Date:   Fri Apr 8 23:39:13 2022 +0200
+
+    Modify item#4
+
+commit 9455c417786f6bf3ab37b4a6bb6a6bd15636d073 (origin/branch2)
+Author: Mila <andonovikjmila@gmail.com>
+Date:   Fri Apr 8 23:33:13 2022 +0200
+
+    Add quantities to the items
+
+commit 2e9e7e6dfe0ca8dc105a983d7f2ee29c90e55b6b
+Author: Mila <andonovikjmila@gmail.com>
+Date:   Fri Apr 8 23:32:42 2022 +0200
+
+    Add 5 items to the shopping list
+
+commit c4f1e8045e6ab7d7f2dd3cd25f36d58d75023a5c
+Author: Mila Andonovikj <86725352+andonovikj@users.noreply.github.com>
+Date:   Fri Apr 8 23:30:54 2022 +0200
+
+    Update README.md
+
+commit 57adf4f44fcf29f07215d7cc6e984ffa1e0ded77
+Author: Mila Andonovikj <86725352+andonovikj@users.noreply.github.com>
+...skipping...
+commit c038ae59a57d171649d77cc2f1ef5f65979cb0a9 (HEAD -> branch2)
+Author: Mila <andonovikjmila@gmail.com>
+Date:   Fri Apr 8 23:39:13 2022 +0200ress RETURN)
+
+    Modify item#4
+
+commit 9455c417786f6bf3ab37b4a6bb6a6bd15636d073 (origin/branch2)
+Author: Mila <andonovikjmila@gmail.com>
+Date:   Fri Apr 8 23:33:13 2022 +0200
+
+    Add quantities to the items
+
+commit 2e9e7e6dfe0ca8dc105a983d7f2ee29c90e55b6b
+Author: Mila <andonovikjmila@gmail.com>
+Date:   Fri Apr 8 23:32:42 2022 +0200
+
+    Add 5 items to the shopping list
+
+commit c4f1e8045e6ab7d7f2dd3cd25f36d58d75023a5c
+Author: Mila Andonovikj <86725352+andonovikj@users.noreply.github.com>
+Date:   Fri Apr 8 23:30:54 2022 +0200
+
+    Update README.md
+
+commit 57adf4f44fcf29f07215d7cc6e984ffa1e0ded77
+Author: Mila Andonovikj <86725352+andonovikj@users.noreply.github.com>
+...skipping...
+commit c038ae59a57d171649d77cc2f1ef5f65979cb0a9 (HEAD -> branch2)
+Author: Mila <andonovikjmila@gmail.com>
+Date:   Fri Apr 8 23:39:13 2022 +0200
+
+    Modify item#4
+
+commit 9455c417786f6bf3ab37b4a6bb6a6bd15636d073 (origin/branch2)
+Author: Mila <andonovikjmila@gmail.com>
+Date:   Fri Apr 8 23:33:13 2022 +0200
+
+    Add quantities to the items
+
+commit 2e9e7e6dfe0ca8dc105a983d7f2ee29c90e55b6b
+Author: Mila <andonovikjmila@gmail.com>
+Date:   Fri Apr 8 23:32:42 2022 +0200
+
+    Add 5 items to the shopping list
+
+commit c4f1e8045e6ab7d7f2dd3cd25f36d58d75023a5c
+Author: Mila Andonovikj <86725352+andonovikj@users.noreply.github.com>
+Date:   Fri Apr 8 23:30:54 2022 +0200
+
+    Update README.md
+
+commit 57adf4f44fcf29f07215d7cc6e984ffa1e0ded77
+Author: Mila Andonovikj <86725352+andonovikj@users.noreply.github.com>
+
+18. 
+git add shopping_list.txt
+git commit --amend -m "Modify item #4 and add item #6"
+
+19. 
+commit 01d4011d4eccd566a222c62fbc21c4d9e3d5914b (HEAD -> branch2)
+Author: Mila <andonovikjmila@gmail.com>
+Date:   Fri Apr 8 23:39:13 2022 +0200
+
+    Modify item #4 and add item #6
+
+commit 9455c417786f6bf3ab37b4a6bb6a6bd15636d073 (origin/branch2)
+Author: Mila <andonovikjmila@gmail.com>
+Date:   Fri Apr 8 23:33:13 2022 +0200
+
+    Add quantities to the items
+
+commit 2e9e7e6dfe0ca8dc105a983d7f2ee29c90e55b6b
+Author: Mila <andonovikjmila@gmail.com>
+Date:   Fri Apr 8 23:32:42 2022 +0200
+
+    Add 5 items to the shopping list
+
+commit c4f1e8045e6ab7d7f2dd3cd25f36d58d75023a5c
+Author: Mila Andonovikj <86725352+andonovikj@users.noreply.github.com>
+Date:   Fri Apr 8 23:30:54 2022 +0200
+
+    Update README.md
+
+commit 57adf4f44fcf29f07215d7cc6e984ffa1e0ded77
+Author: Mila Andonovikj <86725352+andonovikj@users.noreply.github.com>
+Date:   Fri Apr 8 23:30:18 2022 +0200
+
+    Initial commit
+
+
+20. git checkout master 
+git merge branch1
+
+	дали се случиле конфликти при извршување на наредбата?
+            -нема конфликти при извршување на оваа наредба.
+	- ако се случиле, како сте ги решиле (начинот за решавање на конфликти
+	определете го сами како избор на еден од можните начини)
+	- која стратегија била употребена за да се изврши спојувањето
+            -рекурзивно
+
+21. git merge branch2
+
+         дали се случиле конфликти при извршување на наредбата?
+            -да.
+	- ако се случиле, како сте ги решиле (начинот за решавање на конфликти
+	определете го сами како избор на еден од можните начини)
+            -со правење add и commit на shopping_list.txt
+	- која стратегија била употребена за да се изврши спојувањето
+            -рекурзивно
+
+22. git add 203002.txt
+git commit -m "Add docs"
+
+23. git push origin master
+ 
